@@ -44,19 +44,4 @@ I believe in choosing the right tool for the job. Currently maximizing efficienc
 
 ### 📈 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=term164&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="term164" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=term164&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="term164" width="48%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=term164&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="term164" />
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=term164&label=Profile%20views&color=0e75b6&style=flat-square" alt="term164" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Term164&theme=dark&hide_border=true)](https://git.io/streak-stats)
