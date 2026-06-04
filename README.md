@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
   <h1>Hi, I'm Jani Bangiev 👋</h1>
-  <h3>Co-founder & CTO @ <a href="https://picmim.com">Picmim</a></h3>
+  <h3>Co-founder & CTO <a href="https://picmim.com">@Picmim</a></h3>
   <p>
     <b>Building the bridge between AI automation and human creativity.</b>
   </p>
