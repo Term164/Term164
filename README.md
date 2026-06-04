@@ -18,7 +18,7 @@
 
 ### 👨💻 About Me
 
-I am a **Full Stack Engineer** with 10 years of experience, currently transitioning into the role of **CTO** to lead the technical vision at **Picmim**. 
+I am a **Full Stack Engineer** with 10 years of experience
 
 We are building an **AI-first social media management platform** that combines smart technology with a human touch. My daily focus is on architectural scalability, capital-efficient infrastructure, and shipping a polished product to our beta users.
 
